@@ -1,3 +1,9 @@
+## Recap
+* Service Type:
+  * ClusterPort
+  * NodePort
+  * LoadBlancer
+
 ## Usage
 
 ```sh
